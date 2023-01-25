@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+  margin-top: 0;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: #fff;
+}
+html {
+  scroll-behavior: smooth;
+}
